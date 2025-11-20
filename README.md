@@ -41,7 +41,7 @@ No administrative or unnecessary permissions are requested.
 ## 6. Vulnerability Reporting
 If you discover a security issue, please contact:
 
-**[your support email address]**
+info.app.helpdesk@gmail.com
 
 Reports will be acknowledged within **5 business days**, and updates will be provided until the issue is resolved.
 
